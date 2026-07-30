@@ -1,7 +1,7 @@
 # Homebrew plugin for ROM Hub — gbdev's Homebrew Hub
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
-501(c)(3).
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
 
 Implements the RPP v1 `search`, `importer` and `metadata` capabilities against
 [Homebrew Hub](https://hh.gbdev.io), the gbdev community's archive of Game Boy,

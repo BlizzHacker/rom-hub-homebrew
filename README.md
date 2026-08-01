@@ -186,3 +186,15 @@ answers the queries and `/static/` serves the ROMs, with no redirect off it.
 `hh.gbdev.io`, the human site whose `/g/<slug>` pages results link to, is
 deliberately **not** declared: nothing here ever fetches it. `SearchResult.url`
 is shown to a person, never retrieved by the Hub.
+
+---
+
+## Seen working
+
+Games this plugin imported are in the library below, filed in a collection named after it. Nothing in that picture was hand-placed.
+
+![RomM populated by ROM Hub plugins](https://raw.githubusercontent.com/BlizzHacker/rom-hub/master/docs/screenshots/romm.png)
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install homebrew`.

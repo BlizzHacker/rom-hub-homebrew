@@ -1,5 +1,7 @@
 # Homebrew plugin for ROM Hub — gbdev's Homebrew Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `search`, `importer` and `metadata` capabilities against
 [Homebrew Hub](https://hh.gbdev.io), the gbdev community's archive of Game Boy,
 Game Boy Color, Game Boy Advance and NES **homebrew**.
